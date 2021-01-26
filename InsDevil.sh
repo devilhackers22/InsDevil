@@ -1,3 +1,6 @@
+termux-open-url https://youtube.com/channel/UCtVKt69RRu9TOJFfk5neJEA
+
+sleep 1
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
