@@ -71,9 +71,8 @@ $ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git &
 
 -------------------------------------------------------------------------------------
 
-### Devil Hackers
+### [Devil Hackers](https://www.instagram.com/devilhackers22/)
 
-[Devil Hackers](https://www.instagram.com/devilhackers22/)
 
 ### <h2 align="center">To Know about Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-</h2>
 <p align="center">
