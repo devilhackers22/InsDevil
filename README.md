@@ -19,7 +19,7 @@
   
 
 ###### <p align="center"> *[**Devil Hackers**](https://www.instagram.com/devilhackers22/) ❤️*
-###### <p align="center"> *Join Our [Telegram Group](https://www.instagram.com/devilhackers22)✌*
+###### <p align="center"> *Join Our [Telegram Group](https://t.me/devilhackers22)✌*
 
 ### What is InsDevil??
 InsDevil Is A Tool For Used To Increse Instagram Followers : Devil Hackers
