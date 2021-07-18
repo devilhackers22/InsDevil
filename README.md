@@ -1,11 +1,9 @@
 <h1 align="center">How To Increse Instagram Followers Using Termux/KaliLinux:-</h1>
 <p align=center>
   <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
-  
   <br>
-
 <p align=center>
-  <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made By Devil Hackers" src="https://img.shields.io/badge/MADE%20By-Devil-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/devilhackers22"><img title="Made By Devil Hackers" src="https://img.shields.io/badge/Made%20By-Devil%20Hackers-blue?style=for-the-badge&logo=appveyor"></a>
   </p>
 
   <br>
@@ -18,10 +16,7 @@
 
 ###### <p align="center">Get 100% Real Followers Using InsDevil<p align="center">
 <p align=center>
-  <a href="https://www.instagram.com/devilhackers22"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
-  <a href="https://www.instagram.com/devilhackers22"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0" ></a>
-  <a href="https://www.instagram.com/devilhackers22"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/instarat?style=social" ></a>
-  <a href="https://github.com/devilhackers22/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
+  
 
 ###### <p align="center"> *[**Devil Hackers**](https://www.instagram.com/devilhackers22/) ❤️*
 ###### <p align="center"> *Join Our [Telegram Group](https://www.instagram.com/devilhackers22)✌*
